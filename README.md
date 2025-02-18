@@ -1,2 +1,2 @@
 # quizgenerator
- AI Quiz Generator Web Application
+ AI Quiz Generator Web Application.
